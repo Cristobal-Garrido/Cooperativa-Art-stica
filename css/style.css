@@ -1,7 +1,41 @@
+body {
+    background-color: #ffa07a;
+}
+
 .center {
     text-align: center;
     color: #000000;
     text-decoration: underline;
     margin-top: 20px;
     margin-bottom: 15px;
+}
+
+#itallic {
+    font-style: italic;
+}
+
+.div-1 {
+    text-align: left;
+    background-color: #87cefa;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    background-position: right top;
+    margin: auto;
+    width: 50%;
+}
+
+.div-2 {
+    text-align: left;
+    background-color: #00ffff;
+    background-position: right;
+    margin: auto;
+    width: 45%;
+}
+
+div {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p {
+    margin: 0px;
 }
